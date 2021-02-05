@@ -4,4 +4,4 @@ SpaceX Application
 Used:
  GraphQL API
  TypeScript
-Web App Deployed At : https://spacex-waqar.firebaseapp.com/
+Web App Deployed At : https://zealous-wiles-e007bb.netlify.app/
